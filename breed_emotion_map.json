@@ -1,0 +1,222 @@
+{
+  "dog": {
+    "Labrador": {
+      "happy": {
+        "reason": "Loose tail wag, soft eyes, relaxed mouth typical for Labs",
+        "suggestion": "Play fetch for 15 mins, give treat, positive reinforcement"
+      },
+      "anxious": {
+        "reason": "Lip licking, whale eyes, ears back - Labs show anxiety this way",
+        "suggestion": "Move to quiet room, soft voice, remove trigger, don't force cuddle"
+      },
+      "angry": {
+        "reason": "Stiff body, hard stare, growling",
+        "suggestion": "Give space immediately, avoid eye contact, no punishment"
+      },
+      "sad": {
+        "reason": "Low tail, avoiding interaction, less appetite",
+        "suggestion": "Gentle walk, check for illness, spend quality time"
+      },
+      "playful": {
+        "reason": "Play bow, zoomies, bringing toy",
+        "suggestion": "Engage in play, mental puzzle toy"
+      },
+      "sick": {
+        "reason": "Lethargy, drooling, tucked tail",
+        "suggestion": "Check temp, water intake, contact vet if >24h"
+      },
+      "relaxed": {
+        "reason": "Side sleeping, soft ears",
+        "suggestion": "Let him rest, gentle petting OK"
+      }
+    },
+    "German Shepherd": {
+      "happy": {
+        "reason": "Ears forward but soft, tail level wag",
+        "suggestion": "Training session + reward, they love tasks"
+      },
+      "anxious": {
+        "reason": "Panting, pacing, ears pinned",
+        "suggestion": "Structured command (sit), safe crate space"
+      },
+      "angry": {
+        "reason": "Hackles raised, baring teeth",
+        "suggestion": "Strictly no approach, call experienced handler if needed"
+      },
+      "sad": {
+        "reason": "Whining, lying by door",
+        "suggestion": "Extra bonding, check joint pain (common in GSD)"
+      },
+      "playful": {
+        "reason": "Bouncy, barking playfully",
+        "suggestion": "Obedience game, tug toy"
+      },
+      "sick": {
+        "reason": "Limping, hiding",
+        "suggestion": "Vet check for hip dysplasia signs"
+      },
+      "relaxed": {
+        "reason": "Flopped ears, belly up",
+        "suggestion": "Calm environment, maintain routine"
+      }
+    },
+    "Pug": {
+      "happy": {
+        "reason": "Wrinkles relaxed, snort-grunt happy sound",
+        "suggestion": "Short play, avoid overheat - Pugs overheat fast"
+      },
+      "anxious": {
+        "reason": "Heavy breathing, curled tight",
+        "suggestion": "Cool room, fresh water, AC, no tight harness"
+      },
+      "sad": {
+        "reason": "Less snorting, hiding in corner",
+        "suggestion": "Check breathing, gentle lap time"
+      },
+      "sick": {
+        "reason": "Labored breathing, eye discharge",
+        "suggestion": "Immediate vet - brachycephalic breeds are high risk"
+      },
+      "playful": {
+        "reason": "Spinning, little hops",
+        "suggestion": "5-min play bursts only"
+      },
+      "relaxed": {
+        "reason": "Snoring while awake, loose body",
+        "suggestion": "Perfect lap time"
+      },
+      "angry": {
+        "reason": "Sharp bark, stiff",
+        "suggestion": "Give space, they get irritated when hot"
+      }
+    }
+  },
+  "cat": {
+    "Persian": {
+      "happy": {
+        "reason": "Slow blink, kneading",
+        "suggestion": "Gentle brushing, quiet praise"
+      },
+      "anxious": {
+        "reason": "Hiding, flat ears, puffed tail",
+        "suggestion": "Quiet dark box, no loud music, Feliway if available"
+      },
+      "angry": {
+        "reason": "Hissing, swatting",
+        "suggestion": "Leave alone for 30 mins"
+      },
+      "sad": {
+        "reason": "Over-grooming, not eating",
+        "suggestion": "Vet check, interactive feather toy"
+      },
+      "sick": {
+        "reason": "Watery eyes (common), sneezing",
+        "suggestion": "Clean eyes daily, vet if persists"
+      },
+      "playful": {
+        "reason": "Chasing shadow, pouncing",
+        "suggestion": "Laser pointer 10 mins"
+      },
+      "relaxed": {
+        "reason": "Loaf position, eyes half closed",
+        "suggestion": "Do not disturb, that's trust"
+      }
+    }
+  },
+  "hamster": {
+    "Syrian": {
+      "happy": {
+        "reason": "Exploring, grooming, pouches empty",
+        "suggestion": "Free roam in ball 15 mins"
+      },
+      "anxious": {
+        "reason": "Freezing, ears back",
+        "suggestion": "Dim lights, cover half cage"
+      },
+      "angry": {
+        "reason": "Standing tall, teeth showing",
+        "suggestion": "Don't handle, leave treat and retreat"
+      },
+      "sick": {
+        "reason": "Wet tail, hunched",
+        "suggestion": "URGENT vet - wet tail is fatal fast"
+      },
+      "relaxed": {
+        "reason": "Stretched sleeping",
+        "suggestion": "Maintain temp 20-24C"
+      },
+      "sad": {
+        "reason": "Not using wheel",
+        "suggestion": "Check wheel size, cage enrichment"
+      },
+      "playful": {
+        "reason": "Running wheel, burrowing",
+        "suggestion": "Add new tunnels"
+      }
+    }
+  },
+  "rabbit": {
+    "Lop": {
+      "happy": {
+        "reason": "Binkying (jump twist), nose wiggling fast",
+        "suggestion": "Free run in rabbit-proofed area"
+      },
+      "anxious": {
+        "reason": "Thumping hind foot, ears flat",
+        "suggestion": "Check for predator sound, cover enclosure"
+      },
+      "angry": {
+        "reason": "Grunting, lunging",
+        "suggestion": "Don't pick up, give space"
+      },
+      "sick": {
+        "reason": "Not eating, hunched, teeth grinding",
+        "suggestion": "Emergency vet - GI stasis kills rabbits fast"
+      },
+      "relaxed": {
+        "reason": "Flopped on side",
+        "suggestion": "Best compliment - means total trust"
+      },
+      "sad": {
+        "reason": "Sitting still, hiding",
+        "suggestion": "Companion time, hay variety"
+      },
+      "playful": {
+        "reason": "Tossing toy, digging",
+        "suggestion": "Dig box with paper"
+      }
+    }
+  },
+  "bird": {
+    "Parrot": {
+      "happy": {
+        "reason": "Singing, beak grinding, tail wag",
+        "suggestion": "Talk back, whistle, offer nut as reward"
+      },
+      "anxious": {
+        "reason": "Feather plucking, rapid breathing",
+        "suggestion": "Cover cage 10 mins, reduce noise, 12h sleep needed"
+      },
+      "angry": {
+        "reason": "Pinning eyes, lunging beak",
+        "suggestion": "No hand near, step back"
+      },
+      "sick": {
+        "reason": "Fluffed all day, sitting bottom",
+        "suggestion": "Avian vet ASAP - birds hide illness"
+      },
+      "playful": {
+        "reason": "Hanging upside down, bobbing head",
+        "suggestion": "New foraging toy"
+      },
+      "relaxed": {
+        "reason": "One foot up, grinding beak before sleep",
+        "suggestion": "Soft goodnight, keep routine"
+      },
+      "sad": {
+        "reason": "Quiet, not vocal",
+        "suggestion": "More social time, out-of-cage time 3h/day"
+      }
+    }
+  }
+}
